@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JavaScript, PHP, Wordpress<br>🎯 Goals: 1. To enhance my skills in modern technologies <br>2. Work with a reputed company</p>
+<p align="left">📚 I'm currently learning JavaScript, PHP, WordPress<br>🎯 Goals: 1. To enhance my skills in modern technologies <br>2. Work with a reputed company</p>
 
 ###
 
